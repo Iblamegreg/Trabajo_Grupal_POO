@@ -3,7 +3,7 @@
 # Tarea Integradora: POO en Java
 
 ## Datos del Equipo
-* **Integrantes:** *
+* **Integrantes:** 
   * Gregory Araujo
   * Melany Perugachi
 * **Curso:** GR1
