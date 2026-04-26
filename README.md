@@ -15,7 +15,7 @@ Este proyecto contiene dos sistemas desarrollados aplicando los principios de la
 
 ## Instrucciones para ejecutar el proyecto
 1. Clonar este repositorio usando: `git clone [URL_DEL_REPOSITORIO]`
-2. Abrir el proyecto en un IDE compatible con Java (IntelliJ IDEA, Eclipse, NetBeans, o VS Code).
+2. Abrir el proyecto en un IDE compatible con Java (IntelliJ IDEA).
 3. Para probar el primer ejercicio, ejecutar la clase `Main` dentro del paquete `ec.gob.subsidio.modelo`.
 4. Para probar el reto bancario, ejecutar la clase `Main` dentro del paquete `sistema.bancario`.
 
